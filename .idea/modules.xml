@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/01-Praticando_Java_Variaveis_tiposs.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/01-Praticando_Java_Variaveis_tiposs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Praticando_Java_Condicionais_if_else/02-Praticando_Java_Condicionais_if_else.iml" filepath="$PROJECT_DIR$/02-Praticando_Java_Condicionais_if_else/02-Praticando_Java_Condicionais_if_else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/03-Praticando_Java_Colecoes_e_streams.iml" filepath="$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/03-Praticando_Java_Colecoes_e_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/10-Cadastro de livros/10-Cadastro de livros.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/10-Cadastro de livros/10-Cadastro de livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/11-Classificacao_Por_Categoria/11-Classificacao_Por_Categoria.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/11-Classificacao_Por_Categoria/11-Classificacao_Por_Categoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/12-Par_Ou_impar/12-Par_Ou_impar.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/12-Par_Ou_impar/12-Par_Ou_impar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/13-Conversao_Moedas/13-Conversao_Moedas.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/13-Conversao_Moedas/13-Conversao_Moedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/14-Verificacao_Idade_/14-Verificacao_Idade_.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/14-Verificacao_Idade_/14-Verificacao_Idade_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/15-PlanejandoUmaViagem_Consumo_Autonomia/15-PlanejandoUmaViagem_Consumo_Autonomia.iml" filepath="$PROJECT_DIR$/01-Praticando_Java_Variaveis_tiposs/15-PlanejandoUmaViagem_Consumo_Autonomia/15-PlanejandoUmaViagem_Consumo_Autonomia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Acessando_Elementos/Acessando_Elementos.iml" filepath="$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Acessando_Elementos/Acessando_Elementos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Adicionando_Elemento/Adicionando_Elemento.iml" filepath="$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Adicionando_Elemento/Adicionando_Elemento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_estudo.iml" filepath="$PROJECT_DIR$/.idea/Java_estudo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Removendo/Removendo.iml" filepath="$PROJECT_DIR$/03-Praticando_Java_Colecoes_e_streams/ Exercicio/Removendo/Removendo.iml" />
+    </modules>
+  </component>
+</project>
